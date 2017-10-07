@@ -1,0 +1,13 @@
+{
+  "name": "main",
+  "version": "1.1.0",
+  "author": "laino",
+  "description": "main",
+  "private": true,
+  "dependencies": {
+    "soundmanager2": "",
+    "mustache": "",
+    "request-animation-frame-polyfill": "",
+    "other": "file:../other"
+  }
+}
