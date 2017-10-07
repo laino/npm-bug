@@ -5,9 +5,6 @@
   "description": "main",
   "private": true,
   "dependencies": {
-    "soundmanager2": "",
-    "mustache": "",
-    "request-animation-frame-polyfill": "",
     "other": "file:../other"
   }
 }
